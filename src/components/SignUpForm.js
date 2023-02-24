@@ -14,7 +14,7 @@ import { Link } from "react-router-dom";
 
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
-  }
+  }a
 
   
 
